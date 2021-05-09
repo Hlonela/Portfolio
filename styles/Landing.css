@@ -1,0 +1,51 @@
+/* .Landing-Section {
+    display: flex;
+    width: 100%;
+    height: 95vh;
+    background-color: black;
+} */
+button {
+    background-color: goldenrod;
+}
+.introduction button {
+    width: 130px;
+    height: 45px;
+    border-radius: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.introduction{
+position: absolute;
+left: 25%;
+top: 47%;
+transform: translate(-13%, -42%);
+font-weight: bold;
+color:black;
+margin: 15px;
+padding: 15px;
+border-color: black;
+position: absolute;
+left: 70%;
+top: 85%;
+transform: translate(-13%, -42%);   
+}
+
+/* #Hi{
+    font-size: 35px;
+    color: silver;
+    font-family: fantasy;
+}
+
+#name{
+    font-size: 45px;
+    color: goldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#who{
+    font-size: 35px;
+    font-family: fantasy;
+    color: silver;
+} */

@@ -1,0 +1,33 @@
+.navigation-tag .Greetings-container {
+    width: 30vw;
+    height: 30vh;
+    align-items: flex-start;
+    background-color: white;
+}
+
+
+.initials {
+    font-family: sans-serif;
+    position: fixed;
+    right: 20px;
+    top: 0;
+    color: white;
+    font-size: 22px;
+}
+
+
+.navigation-tag img {
+    align-items: center;
+    border-radius: 25px;
+    
+}
+
+.navigation-tag .nav-list {
+    font-family: sans-serif;
+    position: fixed;
+    right: 20px;
+    top: 30px;
+    color: white;
+    font-size: 18px;
+
+}
